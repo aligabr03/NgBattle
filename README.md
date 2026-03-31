@@ -134,8 +134,6 @@ npm run check
 
 ## Screenshots
 
-Add your screenshots in `docs/screenshots/` (or update paths below).
-
 ### Lobby
 
 ![](static/lobby.png)
